@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hey this is a test react app
+          Hey this is a test react app.
+          Lets what is Description in GitHub desktop while committing.
         </p>
         <a
           className="App-link"
